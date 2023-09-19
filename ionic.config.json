@@ -1,0 +1,7 @@
+{
+  "name": "university-cgpa-calculatornpm run build",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
